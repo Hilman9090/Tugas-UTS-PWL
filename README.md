@@ -1,6 +1,7 @@
 Tugas web PWL IF A 2019
 
-kelompok : HilmanSaepulAnwar_5520119016 55020119026_DavaPramudia
+kelompok : 5520119016_Hilman Saepul Anwar 
+           55020119026_Dava Pramudia
 
 Web ini bertemakan Anime Shingeki No Kyojin
 
